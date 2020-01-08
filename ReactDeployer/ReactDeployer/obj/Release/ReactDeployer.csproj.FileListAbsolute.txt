@@ -1,0 +1,12 @@
+D:\GIT\DOTNET\ReactDeployer\ReactDeployer\bin\Release\ReactDeployer.exe.config
+D:\GIT\DOTNET\ReactDeployer\ReactDeployer\bin\Release\ReactDeployer.exe
+D:\GIT\DOTNET\ReactDeployer\ReactDeployer\bin\Release\ReactDeployer.pdb
+D:\GIT\DOTNET\ReactDeployer\ReactDeployer\bin\Release\Newtonsoft.Json.dll
+D:\GIT\DOTNET\ReactDeployer\ReactDeployer\bin\Release\Newtonsoft.Json.xml
+D:\GIT\DOTNET\ReactDeployer\ReactDeployer\obj\Release\ReactDeployer.Form1.resources
+D:\GIT\DOTNET\ReactDeployer\ReactDeployer\obj\Release\ReactDeployer.Properties.Resources.resources
+D:\GIT\DOTNET\ReactDeployer\ReactDeployer\obj\Release\ReactDeployer.csproj.GenerateResource.cache
+D:\GIT\DOTNET\ReactDeployer\ReactDeployer\obj\Release\ReactDeployer.csproj.CoreCompileInputs.cache
+D:\GIT\DOTNET\ReactDeployer\ReactDeployer\obj\Release\ReactDeployer.csproj.CopyComplete
+D:\GIT\DOTNET\ReactDeployer\ReactDeployer\obj\Release\ReactDeployer.exe
+D:\GIT\DOTNET\ReactDeployer\ReactDeployer\obj\Release\ReactDeployer.pdb
